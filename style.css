@@ -1,0 +1,14 @@
+.bg{
+    background-color: rgb(241, 201, 188);
+}
+.color{
+   color: rgb(235, 65, 65);
+}
+.size{
+    font-size: 80px;
+    margin: 60px;
+}
+ p{
+    margin: 60px;
+    font-size:20px;
+}
