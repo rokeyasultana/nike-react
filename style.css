@@ -6,9 +6,19 @@
 }
 .size{
     font-size: 80px;
-    margin: 60px;
+    margin: 10px;
 }
  p{
-    margin: 60px;
-    font-size:20px;
+    margin: 10px;
+    font-size:15px;
+}
+
+img{
+    background: rgb(184, 179, 179);
+    height: 300px;
+}
+.card{
+margin-top: 10px;
+box-shadow:5px 5px 5px 5px rgb(232, 229, 229);
+height: 550px;
 }
